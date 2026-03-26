@@ -9,3 +9,4 @@ steps:
     image: alpine
     commands:
       - echo "hello"
+      - sleep 50
