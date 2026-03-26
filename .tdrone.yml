@@ -1,5 +1,0 @@
-# Create this as .drone.yml in any repo
-kind: pipeline
-steps:
-  - this is broken YAML {{{
-  - [[[invalid syntax
